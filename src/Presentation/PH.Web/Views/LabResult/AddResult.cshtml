@@ -1,0 +1,22 @@
+﻿<div class="container mt-5">
+    <h1 class="mb-4">Add New Exam Result</h1>
+    <form action="/LabResult/AddResult" method="post" enctype="multipart/form-data">
+        <div class="mb-3">
+            <label for="examName" class="form-label">Exam Name</label>
+            <input type="text" class="form-control" id="testName" name="testName" required>
+        </div>
+        <div class="mb-3">
+            <label for="resultValue" class="form-label">Result Value</label>
+            <input type="text" class="form-control" id="resultValue" name="resultValue" required>
+        </div>
+        <div class="mb-3">
+            <label for="unit" class="form-label">Unit</label>
+            <input type="text" class="form-control" id="unit" name="unit" required>
+        </div>
+        <div class="mb-3">
+            <label for="resultDateTime" class="form-label">Date and Time</label>
+            <input type="datetime-local" class="form-control" id="resultDate" name="resultDate" required>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>

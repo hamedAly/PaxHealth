@@ -1,0 +1,30 @@
+﻿
+<div id="labResultsContainer">
+    @await Html.PartialAsync("~/Views/LabResult/Partials/_Grid.cshtml", new LabResultViewModel())
+</div>
+
+<div id="medicalDocumentsContainer">
+    @await Html.PartialAsync("~/Views/MedicalDoc/Partials/_Grid.cshtml", new MedicalDocumentViewModel())
+</div>
+
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            loadLabResults();
+            loadMedicalDocuments();
+        });
+
+        function loadLabResults(page = 1) {
+            $.get('@Url.Action("List", "LabResult")', { page: page }, function (data) {
+                $('#labResultsContainer').html(data);
+            });
+        }
+
+        function loadMedicalDocuments(page = 1) {
+            $.get('@Url.Action("List", "MedicalDoc")', { page: page }, function (data) {
+                $('#medicalDocumentsContainer').html(data);
+            });
+        }
+    </script>
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PH.Services/1.0.0": {
+        "dependencies": {
+          "PH.Core": "1.0.0"
+        },
+        "runtime": {
+          "PH.Services.dll": {}
+        }
+      },
+      "PH.Core/1.0.0": {
+        "runtime": {
+          "PH.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PH.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PH.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

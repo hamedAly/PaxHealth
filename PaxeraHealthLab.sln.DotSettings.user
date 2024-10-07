@@ -1,0 +1,24 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestProjectMapping/=0C809632_002DFBE2_002D401F_002D984C_002D806F6229D8C6/@EntryIndexedValue">5D1E8180-1213-48B9-8DCB-EFF84C41BC14</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestTemplateMapping/=xUnit/@EntryIndexedValue">33ff99d8-b1ad-4ed5-a4fd-376b97c2c841</s:String>
+	<s:Boolean x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/ShowAdvancedOptions/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6a3fc645_002Ddf84_002D43aa_002D8019_002Dff42e65f1c25/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="LabResultControllerTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::5D1E8180-1213-48B9-8DCB-EFF84C41BC14::net8.0::PH.WebTests.Controllers.LabResultControllerTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a0d9625c_002D8b39_002D4b4f_002D91eb_002Daca00edd892b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="List_ReturnsPartialViewWithLabResultViewModel_WhenCalledWithValidPageNumber #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::5D1E8180-1213-48B9-8DCB-EFF84C41BC14::net8.0::PH.WebTests.Controllers.LabResultControllerTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5D1E8180-1213-48B9-8DCB-EFF84C41BC14::net8.0::PH.Web.Tests.MedicalDocControllerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5D1E8180-1213-48B9-8DCB-EFF84C41BC14::net8.0::LabResultServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5D1E8180-1213-48B9-8DCB-EFF84C41BC14::net8.0::PH.Services.Tests.LabResultServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5D1E8180-1213-48B9-8DCB-EFF84C41BC14::net8.0::PH.Services.Tests.MedicalDocumentServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5D1E8180-1213-48B9-8DCB-EFF84C41BC14::net8.0::PH.Data.Tests.EntityRepositoryTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c46e37cb_002Db149_002D4a8c_002Db968_002D5cda1c5e82e2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="List_ReturnsPartialViewWithLabResultViewModel_WhenCalledWithValidPageNumber" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::5D1E8180-1213-48B9-8DCB-EFF84C41BC14::net8.0::PH.WebTests.Controllers.LabResultControllerTest.List_ReturnsPartialViewWithLabResultViewModel_WhenCalledWithValidPageNumber&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

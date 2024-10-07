@@ -1,0 +1,73 @@
+﻿@model LabResultViewModel
+<h2>Lab Results</h2>
+<table class="table table-striped table-hover">
+    <thead>
+        <tr>
+            <th>Exam Name</th>
+            <th>Result Value</th>
+            <th>Unit</th>
+            <th>Date and Time</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (var item in Model.LabResults)
+        {
+            <tr data-id="@item.Id">
+                <td>@item.TestName</td>
+                <td>@item.ResultValue</td>
+                <td>@item.Unit</td>
+                <td>@item.ResultDate.ToString("g")</td>
+                <td>
+                    <a href="#"
+                       class="btn btn-sm btn-outline-danger"
+                       data-bs-toggle="tooltip"
+                       data-bs-placement="top"
+                       title="Delete"
+                       onclick="deleteResult(@item.Id);">
+                        <i class="bi bi-trash"></i>
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<div class="d-flex justify-content-between align-items-right">
+    <a asp-controller="LabResult" asp-action="AddResult" class="btn btn-primary btn-sm">Add Lab Result</a>
+</div>
+<nav aria-label="Lab Results pagination">
+    <ul class="pagination justify-content-center">
+        @for (int i = 1; i <= Model.TotalPages; i++)
+        {
+            <li class="page-item @(i == Model.PageNumber ? "active" : "")">
+                <a class="page-link" href="javascript:void(0);" onclick="loadLabResults(@i)">@i</a>
+            </li>
+        }
+    </ul>
+</nav>
+<script>
+    var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
+    var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+        return new bootstrap.Tooltip(tooltipTriggerEl)
+    })
+
+    function deleteResult(id) {
+        if (confirm('Are you sure you want to delete this result?')) {
+            fetch(`/LabResult/Delete?id=${id}`, {
+                method: 'DELETE'
+            })
+                .then(response => {
+                    if (response.ok) {
+                       // $(`tr[data-id='${id}']`).remove();
+                         location.reload();
+                    } else {
+                        alert('Failed to delete result');
+                    }
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    alert('Error deleting result');
+                });
+        }
+    }
+</script>

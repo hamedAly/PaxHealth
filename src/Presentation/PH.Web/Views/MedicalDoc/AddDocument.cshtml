@@ -1,0 +1,67 @@
+﻿
+<form id="addDocumentForm" asp-action="Add" enctype="multipart/form-data">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="mb-3">
+        <label for="fileName" class="form-label">File Name</label>
+        <input type="text" class="form-control" id="fileName" name="fileName" required>
+    </div>
+    <div class="mb-3">
+        <label for="description" class="form-label">Description</label>
+        <textarea class="form-control" id="description" name="description" required></textarea>
+    </div>
+    <div class="form-group">
+        <label for="file" class="control-label">File (Image or PDF)</label><br />
+        <input type="file" id="file" name="file" class="form-control-file" required accept=".jpg,.jpeg,.png,.pdf" />
+        <span id="fileValidation" class="text-danger"></span>
+    </div>
+    <br /><br /><br />
+    <div class="form-group">
+        <input type="submit" value="Add Document" class="btn btn-primary" /> <a asp-action="Index" asp-controller="MedicalData">Back to List</a>
+    </div>
+</form>
+
+<div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+    <script>
+        $(document).ready(function () {
+            $('#addDocumentForm').submit(function (e) {
+                e.preventDefault();
+                var formData = new FormData(this);
+                $.ajax({
+                    url: '@Url.Action("AddDocument", "MedicalDoc")',
+                    type: 'POST',
+                    data: formData,
+                    success: function (result) {
+                        if (result.success) {
+                            window.location.href = '@Url.Action("Index", "MedicalData")';
+                        } else {
+                            alert('Error: ' + result.message);
+                        }
+                    },
+                    error: function () {
+                        alert('An error occurred while processing your request.');
+                    },
+                    cache: false,
+                    contentType: false,
+                    processData: false
+                });
+            });
+
+            $('#file').change(function () {
+                var fileExtension = ['jpeg', 'jpg', 'png', 'pdf'];
+                if ($.inArray($(this).val().split('.').pop().toLowerCase(), fileExtension) == -1) {
+                    $('#fileValidation').text('Only image (jpg, jpeg, png) or PDF files are allowed.');
+                    this.value = '';
+                } else {
+                    $('#fileValidation').text('');
+                }
+            });
+        });
+    </script>
+}

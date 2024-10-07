@@ -1,0 +1,17 @@
+E:\PaxeraHealth\src\Libraries\PH.Data\bin\Debug\net8.0\PH.Data.deps.json
+E:\PaxeraHealth\src\Libraries\PH.Data\bin\Debug\net8.0\PH.Data.runtimeconfig.json
+E:\PaxeraHealth\src\Libraries\PH.Data\bin\Debug\net8.0\PH.Data.dll
+E:\PaxeraHealth\src\Libraries\PH.Data\bin\Debug\net8.0\PH.Data.pdb
+E:\PaxeraHealth\src\Libraries\PH.Data\bin\Debug\net8.0\PH.Core.dll
+E:\PaxeraHealth\src\Libraries\PH.Data\bin\Debug\net8.0\PH.Core.pdb
+E:\PaxeraHealth\src\Libraries\PH.Data\obj\Debug\net8.0\PH.Data.csproj.AssemblyReference.cache
+E:\PaxeraHealth\src\Libraries\PH.Data\obj\Debug\net8.0\PH.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\PaxeraHealth\src\Libraries\PH.Data\obj\Debug\net8.0\PH.Data.AssemblyInfoInputs.cache
+E:\PaxeraHealth\src\Libraries\PH.Data\obj\Debug\net8.0\PH.Data.AssemblyInfo.cs
+E:\PaxeraHealth\src\Libraries\PH.Data\obj\Debug\net8.0\PH.Data.csproj.CoreCompileInputs.cache
+E:\PaxeraHealth\src\Libraries\PH.Data\obj\Debug\net8.0\PH.Data.csproj.Up2Date
+E:\PaxeraHealth\src\Libraries\PH.Data\obj\Debug\net8.0\PH.Data.dll
+E:\PaxeraHealth\src\Libraries\PH.Data\obj\Debug\net8.0\refint\PH.Data.dll
+E:\PaxeraHealth\src\Libraries\PH.Data\obj\Debug\net8.0\PH.Data.pdb
+E:\PaxeraHealth\src\Libraries\PH.Data\obj\Debug\net8.0\PH.Data.genruntimeconfig.cache
+E:\PaxeraHealth\src\Libraries\PH.Data\obj\Debug\net8.0\ref\PH.Data.dll
