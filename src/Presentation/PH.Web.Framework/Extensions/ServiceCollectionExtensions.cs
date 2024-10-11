@@ -7,6 +7,7 @@ using PH.Data;
 using PH.Services;
 using PH.Data.Repo;
 using PH.Web.Framework.Models;
+using Microsoft.AspNetCore.Identity;
 
 namespace PH.Web.Framework
 {
@@ -40,16 +41,27 @@ namespace PH.Web.Framework
                     throw new NotSupportedException($"The database provider '{dataSettings.Provider}' is not supported.");
                 }
             });
-
-            // Register the DbContext as scoped
-            services.AddScoped<IDbContext, PHealthDbContext>();
-
+            
             // repository pattern registration
             services.AddScoped(typeof(IRepository<>), typeof(EntityRepository<>));
 
             // services registration
             services.AddTransient<ILabResultService, LabResultService>();
             services.AddTransient<IMedicalDoucmentService, MedicalDocumentService>();
+        }
+        public static void ConfigureAppDbServices(this IServiceCollection services, WebApplicationBuilder builder)
+        {
+
+            // Register the DbContext as scoped
+            services.AddScoped<IDbContext, PHealthDbContext>();
+            
+            // register identity dbcontext and identity options
+            builder.Services.AddDbContext<IdentityUserContext>(options =>
+            {
+                options.UseSqlServer(builder.Configuration["ConnectionStrings:IdentityConnection"]);
+                options.EnableSensitiveDataLogging(true);
+            });
+            builder.Services.AddIdentity<IdentityUser, IdentityRole>().AddEntityFrameworkStores<IdentityUserContext>();
         }
     }
 }

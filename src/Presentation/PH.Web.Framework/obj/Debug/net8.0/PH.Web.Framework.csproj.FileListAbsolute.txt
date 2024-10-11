@@ -77,3 +77,46 @@ E:\PaxeraHealth\src\Presentation\PH.Web.Framework\obj\Debug\net8.0\PH.Web.Framew
 E:\PaxeraHealth\src\Presentation\PH.Web.Framework\obj\Debug\net8.0\refint\PH.Web.Framework.dll
 E:\PaxeraHealth\src\Presentation\PH.Web.Framework\obj\Debug\net8.0\PH.Web.Framework.pdb
 E:\PaxeraHealth\src\Presentation\PH.Web.Framework\obj\Debug\net8.0\ref\PH.Web.Framework.dll
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Presentation\PH.Web.Framework\obj\Debug\net8.0\PH.Web.Framework.csproj.AssemblyReference.cache
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Presentation\PH.Web.Framework\obj\Debug\net8.0\PH.Web.Framework.GeneratedMSBuildEditorConfig.editorconfig
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Presentation\PH.Web.Framework\obj\Debug\net8.0\PH.Web.Framework.AssemblyInfoInputs.cache
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Presentation\PH.Web.Framework\obj\Debug\net8.0\PH.Web.Framework.AssemblyInfo.cs
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Presentation\PH.Web.Framework\obj\Debug\net8.0\PH.Web.Framework.csproj.CoreCompileInputs.cache
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Presentation\PH.Web.Framework\obj\Debug\net8.0\PH.Web.Framework.sourcelink.json
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Presentation\PH.Web.Framework\bin\Debug\net8.0\PH.Web.Framework.deps.json
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Presentation\PH.Web.Framework\bin\Debug\net8.0\PH.Web.Framework.dll
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Presentation\PH.Web.Framework\bin\Debug\net8.0\PH.Web.Framework.pdb
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Presentation\PH.Web.Framework\bin\Debug\net8.0\Microsoft.AspNetCore.dll
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Presentation\PH.Web.Framework\bin\Debug\net8.0\PH.Core.dll
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Presentation\PH.Web.Framework\bin\Debug\net8.0\PH.Data.dll
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Presentation\PH.Web.Framework\bin\Debug\net8.0\PH.Services.dll
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Presentation\PH.Web.Framework\bin\Debug\net8.0\Microsoft.AspNetCore.Hosting.dll
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Presentation\PH.Web.Framework\bin\Debug\net8.0\Microsoft.AspNetCore.HttpOverrides.dll
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Presentation\PH.Web.Framework\bin\Debug\net8.0\Microsoft.AspNetCore.Routing.dll
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Presentation\PH.Web.Framework\bin\Debug\net8.0\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Presentation\PH.Web.Framework\bin\Debug\net8.0\Microsoft.AspNetCore.HostFiltering.dll
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Presentation\PH.Web.Framework\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Presentation\PH.Web.Framework\bin\Debug\net8.0\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Presentation\PH.Web.Framework\bin\Debug\net8.0\Microsoft.AspNetCore.Server.IIS.dll
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Presentation\PH.Web.Framework\bin\Debug\net8.0\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Presentation\PH.Web.Framework\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.dll
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Presentation\PH.Web.Framework\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Presentation\PH.Web.Framework\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Presentation\PH.Web.Framework\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Composite.dll
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Presentation\PH.Web.Framework\bin\Debug\net8.0\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Presentation\PH.Web.Framework\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Presentation\PH.Web.Framework\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Presentation\PH.Web.Framework\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Presentation\PH.Web.Framework\bin\Debug\net8.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Presentation\PH.Web.Framework\bin\Debug\net8.0\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Presentation\PH.Web.Framework\bin\Debug\net8.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Presentation\PH.Web.Framework\bin\Debug\net8.0\Microsoft.AspNetCore.Server.HttpSys.dll
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Presentation\PH.Web.Framework\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Presentation\PH.Web.Framework\bin\Debug\net8.0\PH.Core.pdb
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Presentation\PH.Web.Framework\bin\Debug\net8.0\PH.Data.pdb
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Presentation\PH.Web.Framework\bin\Debug\net8.0\PH.Services.pdb
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Presentation\PH.Web.Framework\obj\Debug\net8.0\PH.Web.F.258B5AC1.Up2Date
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Presentation\PH.Web.Framework\obj\Debug\net8.0\PH.Web.Framework.dll
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Presentation\PH.Web.Framework\obj\Debug\net8.0\refint\PH.Web.Framework.dll
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Presentation\PH.Web.Framework\obj\Debug\net8.0\PH.Web.Framework.pdb
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Presentation\PH.Web.Framework\obj\Debug\net8.0\ref\PH.Web.Framework.dll

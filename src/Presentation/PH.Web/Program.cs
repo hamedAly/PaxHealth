@@ -1,11 +1,17 @@
 
+using Microsoft.AspNetCore.Identity;
+ using Microsoft.EntityFrameworkCore;
+using PH.Data;
 using PH.Web.Framework;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddRazorPages();
 builder.Services.ConfigureApplicationServices(builder);
+builder.Services.ConfigureAppDbServices(builder);
 
 //
 var app = builder.Build();

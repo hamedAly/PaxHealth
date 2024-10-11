@@ -8,7 +8,7 @@ namespace PH.Web.Framework.Models
 {
     public class DataSettings
     {
-        public string Provider { get; set; }
-        public string Timeout { get; set; }
+        public string? Provider { get; set; }
+        public string? Timeout { get; set; }
     }
 }

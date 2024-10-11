@@ -1,9 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\PaxeraHealth\\",
+  "WorkspaceRootPath": "E:\\L e a r n \u0026 S t u d y \u0026 P a p a e r\\r e a d i n g\\p r o g r a m m i n g\\.n e t\\PaxHealth\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C809632-FBE2-401F-984C-806F6229D8C6}|src\\Presentation\\PH.Web\\PH.Web.csproj|e:\\paxerahealth\\src\\presentation\\ph.web\\controllers\\labresultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BBA549B4-DFD5-4FA1-8DB3-5332FE1F2514}|src\\Libraries\\PH.Core\\PH.Core.csproj|e:\\l e a r n \u0026 s t u d y \u0026 p a p a e r\\r e a d i n g\\p r o g r a m m i n g\\.n e t\\paxhealth\\src\\libraries\\ph.core\\domain\\labresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA549B4-DFD5-4FA1-8DB3-5332FE1F2514}|src\\Libraries\\PH.Core\\PH.Core.csproj|solutionrelative:src\\libraries\\ph.core\\domain\\labresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7659F7-EAFB-4372-95D2-8EBC038AC4BF}|src\\Presentation\\PH.Web.Framework\\PH.Web.Framework.csproj|e:\\l e a r n \u0026 s t u d y \u0026 p a p a e r\\r e a d i n g\\p r o g r a m m i n g\\.n e t\\paxhealth\\src\\presentation\\ph.web.framework\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7659F7-EAFB-4372-95D2-8EBC038AC4BF}|src\\Presentation\\PH.Web.Framework\\PH.Web.Framework.csproj|solutionrelative:src\\presentation\\ph.web.framework\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7659F7-EAFB-4372-95D2-8EBC038AC4BF}|src\\Presentation\\PH.Web.Framework\\PH.Web.Framework.csproj|e:\\l e a r n \u0026 s t u d y \u0026 p a p a e r\\r e a d i n g\\p r o g r a m m i n g\\.n e t\\paxhealth\\src\\presentation\\ph.web.framework\\extensions\\mappingextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7659F7-EAFB-4372-95D2-8EBC038AC4BF}|src\\Presentation\\PH.Web.Framework\\PH.Web.Framework.csproj|solutionrelative:src\\presentation\\ph.web.framework\\extensions\\mappingextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7659F7-EAFB-4372-95D2-8EBC038AC4BF}|src\\Presentation\\PH.Web.Framework\\PH.Web.Framework.csproj|e:\\l e a r n \u0026 s t u d y \u0026 p a p a e r\\r e a d i n g\\p r o g r a m m i n g\\.n e t\\paxhealth\\src\\presentation\\ph.web.framework\\ph.web.framework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BE7659F7-EAFB-4372-95D2-8EBC038AC4BF}|src\\Presentation\\PH.Web.Framework\\PH.Web.Framework.csproj|solutionrelative:src\\presentation\\ph.web.framework\\ph.web.framework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1E8180-1213-48B9-8DCB-EFF84C41BC14}|src\\Presentation\\PH.Tests\\PH.Tests.csproj|e:\\l e a r n \u0026 s t u d y \u0026 p a p a e r\\r e a d i n g\\p r o g r a m m i n g\\.n e t\\paxhealth\\src\\presentation\\ph.tests\\ph.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5D1E8180-1213-48B9-8DCB-EFF84C41BC14}|src\\Presentation\\PH.Tests\\PH.Tests.csproj|solutionrelative:src\\presentation\\ph.tests\\ph.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C809632-FBE2-401F-984C-806F6229D8C6}|src\\Presentation\\PH.Web\\PH.Web.csproj|e:\\l e a r n \u0026 s t u d y \u0026 p a p a e r\\r e a d i n g\\p r o g r a m m i n g\\.n e t\\paxhealth\\src\\presentation\\ph.web\\ph.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0C809632-FBE2-401F-984C-806F6229D8C6}|src\\Presentation\\PH.Web\\PH.Web.csproj|solutionrelative:src\\presentation\\ph.web\\ph.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C809632-FBE2-401F-984C-806F6229D8C6}|src\\Presentation\\PH.Web\\PH.Web.csproj|e:\\l e a r n \u0026 s t u d y \u0026 p a p a e r\\r e a d i n g\\p r o g r a m m i n g\\.n e t\\paxhealth\\src\\presentation\\ph.web\\views\\users\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C809632-FBE2-401F-984C-806F6229D8C6}|src\\Presentation\\PH.Web\\PH.Web.csproj|solutionrelative:src\\presentation\\ph.web\\views\\users\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C809632-FBE2-401F-984C-806F6229D8C6}|src\\Presentation\\PH.Web\\PH.Web.csproj|e:\\l e a r n \u0026 s t u d y \u0026 p a p a e r\\r e a d i n g\\p r o g r a m m i n g\\.n e t\\paxhealth\\src\\presentation\\ph.web\\controllers\\labresultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C809632-FBE2-401F-984C-806F6229D8C6}|src\\Presentation\\PH.Web\\PH.Web.csproj|solutionrelative:src\\presentation\\ph.web\\controllers\\labresultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,12 +47,103 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LabResult.cs",
+              "DocumentMoniker": "E:\\L e a r n \u0026 S t u d y \u0026 P a p a e r\\r e a d i n g\\p r o g r a m m i n g\\.n e t\\PaxHealth\\src\\Libraries\\PH.Core\\Domain\\LabResult.cs",
+              "RelativeDocumentMoniker": "src\\Libraries\\PH.Core\\Domain\\LabResult.cs",
+              "ToolTip": "E:\\L e a r n \u0026 S t u d y \u0026 P a p a e r\\r e a d i n g\\p r o g r a m m i n g\\.n e t\\PaxHealth\\src\\Libraries\\PH.Core\\Domain\\LabResult.cs",
+              "RelativeToolTip": "src\\Libraries\\PH.Core\\Domain\\LabResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T14:58:01.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MappingExtentions.cs",
+              "DocumentMoniker": "E:\\L e a r n \u0026 S t u d y \u0026 P a p a e r\\r e a d i n g\\p r o g r a m m i n g\\.n e t\\PaxHealth\\src\\Presentation\\PH.Web.Framework\\Extensions\\MappingExtentions.cs",
+              "RelativeDocumentMoniker": "src\\Presentation\\PH.Web.Framework\\Extensions\\MappingExtentions.cs",
+              "ToolTip": "E:\\L e a r n \u0026 S t u d y \u0026 P a p a e r\\r e a d i n g\\p r o g r a m m i n g\\.n e t\\PaxHealth\\src\\Presentation\\PH.Web.Framework\\Extensions\\MappingExtentions.cs",
+              "RelativeToolTip": "src\\Presentation\\PH.Web.Framework\\Extensions\\MappingExtentions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:12:09.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "E:\\L e a r n \u0026 S t u d y \u0026 P a p a e r\\r e a d i n g\\p r o g r a m m i n g\\.n e t\\PaxHealth\\src\\Presentation\\PH.Web.Framework\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "src\\Presentation\\PH.Web.Framework\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "E:\\L e a r n \u0026 S t u d y \u0026 P a p a e r\\r e a d i n g\\p r o g r a m m i n g\\.n e t\\PaxHealth\\src\\Presentation\\PH.Web.Framework\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "src\\Presentation\\PH.Web.Framework\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:03:57.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PH.Tests",
+              "DocumentMoniker": "E:\\L e a r n \u0026 S t u d y \u0026 P a p a e r\\r e a d i n g\\p r o g r a m m i n g\\.n e t\\PaxHealth\\src\\Presentation\\PH.Tests\\PH.Tests.csproj",
+              "RelativeDocumentMoniker": "src\\Presentation\\PH.Tests\\PH.Tests.csproj",
+              "ToolTip": "E:\\L e a r n \u0026 S t u d y \u0026 P a p a e r\\r e a d i n g\\p r o g r a m m i n g\\.n e t\\PaxHealth\\src\\Presentation\\PH.Tests\\PH.Tests.csproj",
+              "RelativeToolTip": "src\\Presentation\\PH.Tests\\PH.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-11T09:00:07.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PH.Web",
+              "DocumentMoniker": "E:\\L e a r n \u0026 S t u d y \u0026 P a p a e r\\r e a d i n g\\p r o g r a m m i n g\\.n e t\\PaxHealth\\src\\Presentation\\PH.Web\\PH.Web.csproj",
+              "RelativeDocumentMoniker": "src\\Presentation\\PH.Web\\PH.Web.csproj",
+              "ToolTip": "E:\\L e a r n \u0026 S t u d y \u0026 P a p a e r\\r e a d i n g\\p r o g r a m m i n g\\.n e t\\PaxHealth\\src\\Presentation\\PH.Web\\PH.Web.csproj",
+              "RelativeToolTip": "src\\Presentation\\PH.Web\\PH.Web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-11T08:59:53.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PH.Web.Framework",
+              "DocumentMoniker": "E:\\L e a r n \u0026 S t u d y \u0026 P a p a e r\\r e a d i n g\\p r o g r a m m i n g\\.n e t\\PaxHealth\\src\\Presentation\\PH.Web.Framework\\PH.Web.Framework.csproj",
+              "RelativeDocumentMoniker": "src\\Presentation\\PH.Web.Framework\\PH.Web.Framework.csproj",
+              "ToolTip": "E:\\L e a r n \u0026 S t u d y \u0026 P a p a e r\\r e a d i n g\\p r o g r a m m i n g\\.n e t\\PaxHealth\\src\\Presentation\\PH.Web.Framework\\PH.Web.Framework.csproj",
+              "RelativeToolTip": "src\\Presentation\\PH.Web.Framework\\PH.Web.Framework.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-11T08:59:31.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "E:\\L e a r n \u0026 S t u d y \u0026 P a p a e r\\r e a d i n g\\p r o g r a m m i n g\\.n e t\\PaxHealth\\src\\Presentation\\PH.Web\\Views\\Users\\List.cshtml",
+              "RelativeDocumentMoniker": "src\\Presentation\\PH.Web\\Views\\Users\\List.cshtml",
+              "ToolTip": "E:\\L e a r n \u0026 S t u d y \u0026 P a p a e r\\r e a d i n g\\p r o g r a m m i n g\\.n e t\\PaxHealth\\src\\Presentation\\PH.Web\\Views\\Users\\List.cshtml",
+              "RelativeToolTip": "src\\Presentation\\PH.Web\\Views\\Users\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T08:54:26.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "LabResultController.cs",
-              "DocumentMoniker": "E:\\PaxeraHealth\\src\\Presentation\\PH.Web\\Controllers\\LabResultController.cs",
+              "DocumentMoniker": "E:\\L e a r n \u0026 S t u d y \u0026 P a p a e r\\r e a d i n g\\p r o g r a m m i n g\\.n e t\\PaxHealth\\src\\Presentation\\PH.Web\\Controllers\\LabResultController.cs",
               "RelativeDocumentMoniker": "src\\Presentation\\PH.Web\\Controllers\\LabResultController.cs",
-              "ToolTip": "E:\\PaxeraHealth\\src\\Presentation\\PH.Web\\Controllers\\LabResultController.cs",
+              "ToolTip": "E:\\L e a r n \u0026 S t u d y \u0026 P a p a e r\\r e a d i n g\\p r o g r a m m i n g\\.n e t\\PaxHealth\\src\\Presentation\\PH.Web\\Controllers\\LabResultController.cs",
               "RelativeToolTip": "src\\Presentation\\PH.Web\\Controllers\\LabResultController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG4AAAABAAAA",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAAAAwAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-15T10:31:04.682Z",
               "EditorCaption": ""

@@ -9,3 +9,15 @@ E:\PaxeraHealth\src\Libraries\PH.Core\obj\Debug\net8.0\PH.Core.dll
 E:\PaxeraHealth\src\Libraries\PH.Core\obj\Debug\net8.0\refint\PH.Core.dll
 E:\PaxeraHealth\src\Libraries\PH.Core\obj\Debug\net8.0\PH.Core.pdb
 E:\PaxeraHealth\src\Libraries\PH.Core\obj\Debug\net8.0\ref\PH.Core.dll
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Libraries\PH.Core\bin\Debug\net8.0\PH.Core.deps.json
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Libraries\PH.Core\bin\Debug\net8.0\PH.Core.dll
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Libraries\PH.Core\bin\Debug\net8.0\PH.Core.pdb
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Libraries\PH.Core\obj\Debug\net8.0\PH.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Libraries\PH.Core\obj\Debug\net8.0\PH.Core.AssemblyInfoInputs.cache
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Libraries\PH.Core\obj\Debug\net8.0\PH.Core.AssemblyInfo.cs
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Libraries\PH.Core\obj\Debug\net8.0\PH.Core.csproj.CoreCompileInputs.cache
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Libraries\PH.Core\obj\Debug\net8.0\PH.Core.sourcelink.json
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Libraries\PH.Core\obj\Debug\net8.0\PH.Core.dll
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Libraries\PH.Core\obj\Debug\net8.0\refint\PH.Core.dll
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Libraries\PH.Core\obj\Debug\net8.0\PH.Core.pdb
+E:\L e a r n & S t u d y & P a p a e r\r e a d i n g\p r o g r a m m i n g\.n e t\PaxHealth\src\Libraries\PH.Core\obj\Debug\net8.0\ref\PH.Core.dll
