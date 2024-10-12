@@ -5,9 +5,9 @@ using Microsoft.AspNetCore.Mvc.ApplicationModels;
  
 namespace PH.Web.Models;
 
-public class CreateUserModel 
+public class UserModel 
 {
-    public int Id { get; set; }
+    public string Id { get; set; }
 
     [BindProperty]
     public required string UserName { get; set; }

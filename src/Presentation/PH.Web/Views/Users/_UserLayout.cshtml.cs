@@ -2,7 +2,7 @@
 
 namespace PH.Web.Views.Users;
 
-public class _Layout : PageModel
+public class _UserLayout : PageModel
 {
     public void OnGet()
     {

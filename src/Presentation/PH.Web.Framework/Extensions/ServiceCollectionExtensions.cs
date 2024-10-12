@@ -63,6 +63,18 @@ namespace PH.Web.Framework
                 options.EnableSensitiveDataLogging(true);
             });
             builder.Services.AddIdentity<IdentityUser, IdentityRole>().AddEntityFrameworkStores<IdentityUserContext>();
+            builder.Services.Configure<IdentityOptions>(options =>
+            {
+                options.Password.RequiredLength = 6;
+                options.Password.RequireNonAlphanumeric = false;
+                options.Password.RequireLowercase = true;
+                options.Password.RequireUppercase = true;
+                options.Password.RequireDigit = true;
+                //unique mail for every user
+                options.User.RequireUniqueEmail = true;
+               //no special char
+               //options.User.AllowedUserNameCharacters = "abcdefghijklmnopqrstuvwxyz";
+            });
         }
     }
 }
