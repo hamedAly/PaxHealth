@@ -48,6 +48,7 @@ namespace PH.Web.Framework
             // services registration
             services.AddTransient<ILabResultService, LabResultService>();
             services.AddTransient<IMedicalDoucmentService, MedicalDocumentService>();
+            services.AddTransient<IUserService, UserService>();
         }
         public static void ConfigureAppDbServices(this IServiceCollection services, WebApplicationBuilder builder)
         {

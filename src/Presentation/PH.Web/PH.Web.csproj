@@ -18,7 +18,6 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Views\Roles\" />
       <Folder Include="wwwroot\uploads\" />
     </ItemGroup>
 

@@ -1310,6 +1310,7 @@
       },
       "PH.Services/1.0.0": {
         "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.10",
           "PH.Core": "1.0.0"
         },
         "runtime": {

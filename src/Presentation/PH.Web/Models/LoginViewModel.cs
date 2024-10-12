@@ -2,7 +2,7 @@
 
 namespace PH.Web.Models;
 
-public class LoginModel  
+public class LoginViewModel  
 {
     [BindProperty]
     public string UserName { get; set; }

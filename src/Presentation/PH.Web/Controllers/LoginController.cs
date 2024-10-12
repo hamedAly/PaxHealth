@@ -13,7 +13,7 @@ public class LoginController : Controller
         signInManager = signinMgr;
     }
 
-    public async Task<IActionResult> OnPostAsync(LoginModel userClaims)
+    public async Task<IActionResult> OnPostAsync(LoginViewModel userClaims)
     {
         if (ModelState.IsValid)
         {

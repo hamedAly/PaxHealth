@@ -26,5 +26,5 @@ app.UseRouting();
 app.UseAuthorization();
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=MedicalData}/{action=Index}");
+    pattern: "{controller=Users}/{action=Login}");
 app.Run();

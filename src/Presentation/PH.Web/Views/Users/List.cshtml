@@ -1,3 +1,37 @@
-﻿
+﻿@model IEnumerable<Microsoft.AspNetCore.Identity.IdentityUser>
 
-<h2>Add users</h2>
+<h2 class="text-center my-4">Users</h2>
+<div class="container">
+    <table class="table table-bordered table-hover table-striped">
+        <thead class="thead-dark">
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Actions</th>
+        </tr>
+        </thead>
+        <tbody>
+        @if (Model.Any())
+        {
+            foreach (var user in Model)
+            {
+                <tr>
+                    <td>@user.Id</td>
+                    <td>@user.UserName</td>
+                    <td>@user.Email</td>
+                    <td>
+                        <button class="btn btn-danger btn-sm">Delete</button>
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="4" class="text-center">No User Accounts</td>
+            </tr>
+        }
+        </tbody>
+    </table>
+</div>
