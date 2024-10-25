@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\L e a r n & S t u d y & P a p a e r\\r e a d i n g\\p r o g r a m m i n g\\.n e t\\PaxHealth\\src\\Libraries\\PH.Data\\PH.Data.csproj": {}
+    "E:\\L e a r n\\P r o g r a m m i n g\\r e a d i n g\\.n e t\\تطبيق asp\\src\\Libraries\\PH.Data\\PH.Data.csproj": {}
   },
   "projects": {
-    "E:\\L e a r n & S t u d y & P a p a e r\\r e a d i n g\\p r o g r a m m i n g\\.n e t\\PaxHealth\\src\\Libraries\\PH.Core\\PH.Core.csproj": {
+    "E:\\L e a r n\\P r o g r a m m i n g\\r e a d i n g\\.n e t\\تطبيق asp\\src\\Libraries\\PH.Core\\PH.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\L e a r n & S t u d y & P a p a e r\\r e a d i n g\\p r o g r a m m i n g\\.n e t\\PaxHealth\\src\\Libraries\\PH.Core\\PH.Core.csproj",
+        "projectUniqueName": "E:\\L e a r n\\P r o g r a m m i n g\\r e a d i n g\\.n e t\\تطبيق asp\\src\\Libraries\\PH.Core\\PH.Core.csproj",
         "projectName": "PH.Core",
-        "projectPath": "E:\\L e a r n & S t u d y & P a p a e r\\r e a d i n g\\p r o g r a m m i n g\\.n e t\\PaxHealth\\src\\Libraries\\PH.Core\\PH.Core.csproj",
+        "projectPath": "E:\\L e a r n\\P r o g r a m m i n g\\r e a d i n g\\.n e t\\تطبيق asp\\src\\Libraries\\PH.Core\\PH.Core.csproj",
         "packagesPath": "C:\\Users\\Hamed\\.nuget\\packages\\",
-        "outputPath": "E:\\L e a r n & S t u d y & P a p a e r\\r e a d i n g\\p r o g r a m m i n g\\.n e t\\PaxHealth\\src\\Libraries\\PH.Core\\obj\\",
+        "outputPath": "E:\\L e a r n\\P r o g r a m m i n g\\r e a d i n g\\.n e t\\تطبيق asp\\src\\Libraries\\PH.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,14 +60,14 @@
         }
       }
     },
-    "E:\\L e a r n & S t u d y & P a p a e r\\r e a d i n g\\p r o g r a m m i n g\\.n e t\\PaxHealth\\src\\Libraries\\PH.Data\\PH.Data.csproj": {
+    "E:\\L e a r n\\P r o g r a m m i n g\\r e a d i n g\\.n e t\\تطبيق asp\\src\\Libraries\\PH.Data\\PH.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\L e a r n & S t u d y & P a p a e r\\r e a d i n g\\p r o g r a m m i n g\\.n e t\\PaxHealth\\src\\Libraries\\PH.Data\\PH.Data.csproj",
+        "projectUniqueName": "E:\\L e a r n\\P r o g r a m m i n g\\r e a d i n g\\.n e t\\تطبيق asp\\src\\Libraries\\PH.Data\\PH.Data.csproj",
         "projectName": "PH.Data",
-        "projectPath": "E:\\L e a r n & S t u d y & P a p a e r\\r e a d i n g\\p r o g r a m m i n g\\.n e t\\PaxHealth\\src\\Libraries\\PH.Data\\PH.Data.csproj",
+        "projectPath": "E:\\L e a r n\\P r o g r a m m i n g\\r e a d i n g\\.n e t\\تطبيق asp\\src\\Libraries\\PH.Data\\PH.Data.csproj",
         "packagesPath": "C:\\Users\\Hamed\\.nuget\\packages\\",
-        "outputPath": "E:\\L e a r n & S t u d y & P a p a e r\\r e a d i n g\\p r o g r a m m i n g\\.n e t\\PaxHealth\\src\\Libraries\\PH.Data\\obj\\",
+        "outputPath": "E:\\L e a r n\\P r o g r a m m i n g\\r e a d i n g\\.n e t\\تطبيق asp\\src\\Libraries\\PH.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -85,8 +85,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\L e a r n & S t u d y & P a p a e r\\r e a d i n g\\p r o g r a m m i n g\\.n e t\\PaxHealth\\src\\Libraries\\PH.Core\\PH.Core.csproj": {
-                "projectPath": "E:\\L e a r n & S t u d y & P a p a e r\\r e a d i n g\\p r o g r a m m i n g\\.n e t\\PaxHealth\\src\\Libraries\\PH.Core\\PH.Core.csproj"
+              "E:\\L e a r n\\P r o g r a m m i n g\\r e a d i n g\\.n e t\\تطبيق asp\\src\\Libraries\\PH.Core\\PH.Core.csproj": {
+                "projectPath": "E:\\L e a r n\\P r o g r a m m i n g\\r e a d i n g\\.n e t\\تطبيق asp\\src\\Libraries\\PH.Core\\PH.Core.csproj"
               }
             }
           }

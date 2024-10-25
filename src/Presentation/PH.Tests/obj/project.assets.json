@@ -6058,11 +6058,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\L e a r n & S t u d y & P a p a e r\\r e a d i n g\\p r o g r a m m i n g\\.n e t\\PaxHealth\\src\\Presentation\\PH.Tests\\PH.Tests.csproj",
+      "projectUniqueName": "E:\\L e a r n\\P r o g r a m m i n g\\r e a d i n g\\.n e t\\تطبيق asp\\src\\Presentation\\PH.Tests\\PH.Tests.csproj",
       "projectName": "PH.Tests",
-      "projectPath": "E:\\L e a r n & S t u d y & P a p a e r\\r e a d i n g\\p r o g r a m m i n g\\.n e t\\PaxHealth\\src\\Presentation\\PH.Tests\\PH.Tests.csproj",
+      "projectPath": "E:\\L e a r n\\P r o g r a m m i n g\\r e a d i n g\\.n e t\\تطبيق asp\\src\\Presentation\\PH.Tests\\PH.Tests.csproj",
       "packagesPath": "C:\\Users\\Hamed\\.nuget\\packages\\",
-      "outputPath": "E:\\L e a r n & S t u d y & P a p a e r\\r e a d i n g\\p r o g r a m m i n g\\.n e t\\PaxHealth\\src\\Presentation\\PH.Tests\\obj\\",
+      "outputPath": "E:\\L e a r n\\P r o g r a m m i n g\\r e a d i n g\\.n e t\\تطبيق asp\\src\\Presentation\\PH.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6080,8 +6080,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\L e a r n & S t u d y & P a p a e r\\r e a d i n g\\p r o g r a m m i n g\\.n e t\\PaxHealth\\src\\Presentation\\PH.Web\\PH.Web.csproj": {
-              "projectPath": "E:\\L e a r n & S t u d y & P a p a e r\\r e a d i n g\\p r o g r a m m i n g\\.n e t\\PaxHealth\\src\\Presentation\\PH.Web\\PH.Web.csproj"
+            "E:\\L e a r n\\P r o g r a m m i n g\\r e a d i n g\\.n e t\\تطبيق asp\\src\\Presentation\\PH.Web\\PH.Web.csproj": {
+              "projectPath": "E:\\L e a r n\\P r o g r a m m i n g\\r e a d i n g\\.n e t\\تطبيق asp\\src\\Presentation\\PH.Web\\PH.Web.csproj"
             }
           }
         }

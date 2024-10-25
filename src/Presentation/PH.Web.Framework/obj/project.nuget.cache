@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sUv/a4XqEACxC0hkusdeSUFzTe92cL/+8cUndgf+4ry54Awo2oUcz4fkxXcssOerzTZ3Gvik4+v0DVSyUrB/Ag==",
+  "dgSpecHash": "8tzKQ+rP09xT2SFe3EptVq1lppDiVQhFqz75ILX0qTMHHvqe2rFuQ9qj9Py+5fvE4OlYw3F4U/DkGzYVby+tSA==",
   "success": true,
-  "projectFilePath": "E:\\L e a r n & S t u d y & P a p a e r\\r e a d i n g\\p r o g r a m m i n g\\.n e t\\PaxHealth\\src\\Presentation\\PH.Web.Framework\\PH.Web.Framework.csproj",
+  "projectFilePath": "E:\\L e a r n\\P r o g r a m m i n g\\r e a d i n g\\.n e t\\تطبيق asp\\src\\Presentation\\PH.Web.Framework\\PH.Web.Framework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hamed\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Hamed\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
